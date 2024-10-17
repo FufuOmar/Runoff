@@ -1,2 +1,2 @@
-# Recover
-A program to recover JPEGs from a memory card.
+# Runoff
+A program that simulates a runoff election and finds a winner.
